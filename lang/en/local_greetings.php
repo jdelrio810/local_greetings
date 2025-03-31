@@ -23,5 +23,11 @@
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-defined('MOODLE_INTERNAL') || die();
-$string['pluginname'] = 'greetings';
+ // This file is part of Moodle - https://moodle.org/
+
+ defined('MOODLE_INTERNAL') || die();
+
+$string['pluginname'] = 'Hola Jose Antonio';
+$string['greetingheading'] = 'Saludos';
+$string['yourmessage'] = 'Tu mensaje';
+$string['submit'] = 'Enviar';
